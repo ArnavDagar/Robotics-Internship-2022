@@ -1,9 +1,13 @@
 # Robotics-Internship-2022
 Included PID Control on Encoder Motors, Servo Motors, Forward and Inverse Kinematics. Internship with Mr. Eric Busboom in the summer of 2022
 
+rive (https://drive.google.com/drive/folders/1kq2HO78w8CUtMis7X5LCUDA4Xuhw8aPj?usp=sharing).
+
 ## 1. Controlling servo motors
+Hobby Servo Motor - I got it working with Servo library. Have a video for this one too.
 
 ## 2. Using stepper motor drivers to control stepper motors
+N17 Stepper Motor - I got it working with TB6600 driver and AccelStepper library using some videos and tutorials. I have a video for you with acceleration and deceleration and direction change with 1/8 steps. The biggest challenge was figuring out a power supply. My dad had an old AC-DC power adapter that worked.
 
 ### a). Using a POT to control speed and direction
 
